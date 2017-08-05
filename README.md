@@ -1,7 +1,9 @@
 # README
 
 ## Introduction
-This directory contains scripts and test data for experimenting with PIDC network inference. Data were simulated using GeneNetWeaver, as described in _Methods_. Our analyses on experimental datasets can be reproduced by downloading the datasets from the relevant references, putting them into the same format as our simulated datasets, and pointing the __Infer network__ script to them.
+This directory contains scripts and test data for experimenting with PIDC network inference, introduced in http://www.biorxiv.org/content/early/2017/04/26/082099.
+
+Data were simulated using GeneNetWeaver, as described in _Methods_. Our analyses on experimental datasets can be reproduced by downloading the datasets from the relevant references, putting them into the same format as our simulated datasets, and pointing the __Infer network__ script to them.
 
 ### Directories
 
@@ -30,7 +32,7 @@ InformationMeasures (version 0.1.1 or higher)
 
 PyPlot
 
-`Pkg.add(PyPlot)`
+`Pkg.add("PyPlot")`
 
 NetworkInference (not yet registered)
 
