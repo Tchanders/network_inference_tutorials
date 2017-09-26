@@ -34,10 +34,14 @@ PyPlot
 
 `Pkg.add("PyPlot")`
 
-NetworkInference (not yet registered)
+LightGraphs
+
+`Pkg.add("LightGraphs")`
+
+GraphPlot
+
+`Pkg.add("GraphPlot")`
+
+NetworkInference (soon to be registered)
 
 `Pkg.clone("git@github.com:Tchanders/NetworkInference.jl.git")`
-
-Junet (not yet registered)
-
-`Pkg.clone("git@github.com:inguar/Junet.jl.git")`
