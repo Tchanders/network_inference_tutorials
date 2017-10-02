@@ -1,7 +1,7 @@
 # README
 
 ## Introduction
-This directory contains scripts and test data for experimenting with PIDC network inference, introduced in http://www.biorxiv.org/content/early/2017/04/26/082099.
+This directory contains scripts and test data for experimenting with PIDC network inference, introduced in [Gene Regulatory Network Inference from Single-Cell Data Using Multivariate Information Measures](http://www.cell.com/cell-systems/fulltext/S2405-4712(17)30386-1) (Cell Systems, 2017).
 
 Data were simulated using GeneNetWeaver, as described in _Methods_. Our analyses on experimental datasets can be reproduced by downloading the datasets from the relevant references, putting them into the same format as our simulated datasets, and pointing the __Infer network__ script to them.
 
