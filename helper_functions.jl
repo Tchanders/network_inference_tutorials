@@ -34,7 +34,7 @@ function get_times_per_number_of_genes(algorithm, discretizer, number_of_cells, 
 
 end
 
-# Times network inference for different numbers of genes (nodes)
+# Times network inference for different numbers of cells
 function get_times_per_number_of_cells(algorithm, discretizer, number_of_nodes, min_number_of_cells,
     max_number_of_cells, step)
 

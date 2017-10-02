@@ -42,6 +42,6 @@ GraphPlot
 
 `Pkg.add("GraphPlot")`
 
-NetworkInference (soon to be registered)
+NetworkInference
 
-`Pkg.clone("git@github.com:Tchanders/NetworkInference.jl.git")`
+`Pkg.add("NetworkInference")`
